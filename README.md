@@ -97,3 +97,10 @@ Collision_detectionWithAvoidance.m
 
 
 ---
+## *Citation*
+If you use this code in your research, please cite:
+
+Raj, Amit, Kapil Ahuja, and Yann Busnel. "AI algorithm for predicting and optimizing trajectory of massive UAV swarm." Robotics and Autonomous Systems (2025): 104910.
+
+[https://doi.org/10.1016/j.robot.2024.104910](https://doi.org/10.1016/j.robot.2024.104910)
+
