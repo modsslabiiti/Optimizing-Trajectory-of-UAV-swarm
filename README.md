@@ -90,7 +90,7 @@ Collision_detectionWithAvoidance.m
 
 ---
 
-## **Features**
+## **4. Features**
 - **Advanced Trajectory Modeling**: Utilizes the **minjerkpolytraj** algorithm for smooth and optimized UAV trajectories.
 - **Custom Neural Network Activation**: Implements the proprietary **AdaptoSwelligauss** activation function to enhance training performance and convergence.
 - **Collision Handling**: Features robust collision detection and real-time avoidance mechanisms for UAVs operating in swarms.
